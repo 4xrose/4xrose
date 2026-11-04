@@ -77,7 +77,7 @@ idk man i tried making a game (horror game)
 
 ### 🌘 [outcome](https://github.com/4xrose/outcome)
 
-my java project
+minecraft pvp assist (all in one)
 
 ![java](https://img.shields.io/badge/java-1b1440?style=flat-square&logo=openjdk&logoColor=f0abfc)
 
@@ -104,18 +104,18 @@ my java project
 
 ## ❀ random
 
-- The moon is pretty tonight, isn't it?
+- The moon is pretty tonight, isn't it? <img src="https://media.tenor.com/cXlrPENTVkEAAAAj/chika-dance.gif" width="180" alt="chika dance"/>
 - passionate about harem mommies 
 - every blink is a gamble
 - i speak fluent nonsense
 
 <br/>
 
-## ♡ gallery
+
 
 <div align="center">
 
-<img src="https://media.tenor.com/cXlrPENTVkEAAAAj/chika-dance.gif" width="180" alt="chika dance"/>
+
 
 <!-- more gifs go here, one <img> per line, e.g.
 <img src="PASTE_GIF_LINK_HERE" width="180" alt="name"/>
