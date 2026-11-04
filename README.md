@@ -63,7 +63,7 @@ inlove with the moon (ofc this readme was made by AI)
 
 ### 🌲 [hushwood](https://github.com/4xrose/hushwood)
 
-idk man i tried making a game (horror game)
+scary game
 
 ![html](https://img.shields.io/badge/html-1b1440?style=flat-square&logo=html5&logoColor=f0abfc)
 
@@ -72,7 +72,7 @@ idk man i tried making a game (horror game)
 
 ### 🌘 [outcome](https://github.com/4xrose/outcome)
 
-my java project
+mc pvp assist mod (all in one)
 
 ![java](https://img.shields.io/badge/java-1b1440?style=flat-square&logo=openjdk&logoColor=f0abfc)
 
