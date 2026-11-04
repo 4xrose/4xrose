@@ -10,8 +10,7 @@
 
 <br/>
 
-<img src="assets/sleepy-moon.svg" width="48%" alt="sleepy girl with cat ears on a crescent moon"/>
-<img src="assets/moon-nap.svg" width="48%" alt="pink haired girl with cat ears dozing on a crescent moon"/>
+<img src="assets/drugaddictsleeping.gif" width="48%" alt=""/>
 
 </div>
 
