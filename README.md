@@ -8,6 +8,11 @@
 
 🌑 🌒 🌓 🌔 🌕 🌖 🌗 🌘
 
+<br/>
+
+<img src="assets/sleepy-moon.svg" width="48%" alt="sleepy girl with cat ears on a crescent moon"/>
+<img src="assets/moon-nap.svg" width="48%" alt="pink haired girl with cat ears dozing on a crescent moon"/>
+
 </div>
 
 <br/>
@@ -63,7 +68,7 @@ inlove with the moon (ofc this readme was made by AI)
 
 ### 🌲 [hushwood](https://github.com/4xrose/hushwood)
 
-scary game
+idk man i tried making a game (horror game)
 
 ![html](https://img.shields.io/badge/html-1b1440?style=flat-square&logo=html5&logoColor=f0abfc)
 
@@ -72,7 +77,7 @@ scary game
 
 ### 🌘 [outcome](https://github.com/4xrose/outcome)
 
-mc pvp assist mod (all in one)
+my java project
 
 ![java](https://img.shields.io/badge/java-1b1440?style=flat-square&logo=openjdk&logoColor=f0abfc)
 
@@ -103,6 +108,20 @@ mc pvp assist mod (all in one)
 - passionate about harem mommies 
 - every blink is a gamble
 - i speak fluent nonsense
+
+<br/>
+
+## ♡ gallery
+
+<div align="center">
+
+<img src="https://media.tenor.com/cXlrPENTVkEAAAAj/chika-dance.gif" width="180" alt="chika dance"/>
+
+<!-- more gifs go here, one <img> per line, e.g.
+<img src="PASTE_GIF_LINK_HERE" width="180" alt="name"/>
+-->
+
+</div>
 
 <br/>
 
