@@ -16,17 +16,15 @@
 
 ```text
 name     : lunarose elysian
-online   : 4xrose
-meow     : yes
+discord  : Axrosen
+carreer  : lifeless
 from     : mars
-team     : RosenDev
-status   : tired
+cult     : RosenDev
+status   : litterally dead
 ```
 
-i make games and random projects, mostly by vibe coding with ai. it makes me pretty decent at whatever language i touch, so i just pick what fits the idea and go.
-
-i've been awake way too long. the moon looks good tonight though.
-
+i make games and random projects whever i get random itchy ideas in my head. Ai cant replace me because she already replaced me with someone....
+inlove with the moon (ofc this readme was made by AI)
 <br/>
 
 ## ✧ currently
@@ -34,9 +32,9 @@ i've been awake way too long. the moon looks good tonight though.
 | | |
 |:--|:--|
 | 🌙 **making** | hushwood, outcome, and whatever i start next |
-| 🔭 **trying** | getting better at three.js |
-| 😴 **sleep** | later |
-| 🐈 **mood** | meow |
+| 🔭 **trying** | to get rich |
+| 😴 **efforts** | none |
+| 🐈 **mood** | meh |
 
 <br/>
 
@@ -65,7 +63,7 @@ i've been awake way too long. the moon looks good tonight though.
 
 ### 🌲 [hushwood](https://github.com/4xrose/hushwood)
 
-idk man i tried making a game
+idk man i tried making a game (horror game)
 
 ![html](https://img.shields.io/badge/html-1b1440?style=flat-square&logo=html5&logoColor=f0abfc)
 
@@ -101,10 +99,10 @@ my java project
 
 ## ❀ random
 
-- i'd move to the moon if it had wifi
-- i say meow a lot
-- my sleep schedule is a suggestion
-- roblox lua is my comfort language
+- The moon is pretty tonight, isn't it?
+- passionate about harem mommies 
+- every blink is a gamble
+- i speak fluent nonsense
 
 <br/>
 
